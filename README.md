@@ -4,7 +4,9 @@
 
 ```mermaid
 flowchart LR
- id1([js])
+ id1([JavaScript])
+ id2([HTML5])
+ id3([CSS])
 ```
 
 
