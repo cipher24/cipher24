@@ -2,7 +2,7 @@
 
 <font size="7"> **Мой стек:** </font>
 
-JavaScript, HTML5, CSS, React.js, Redux, Git, TypeScript
+React.js, Redux, JavaScript, HTML5, CSS, TypeScript, Git
 
 
 
