@@ -1,18 +1,8 @@
-<font size='5'> Привет всем, меня зовут Андрей </font> 👋
+<font size="5"> Привет всем, меня зовут Андрей </font> 👋
 
-<font size='4'> Мой стек: </font>
+<font size="4"> Мой стек: </font>
 
-```mermaid
-flowchart TD
-    id1{{JavaScript}} ;
-    id2{{HTML5}} ;
-    id3{{CSS}};
-    id4{{React.js}};
-    id5{{Redux}};
-    id6{{TypeScript}};
-    id7{{Git}};
-
-```
+JavaScript, HTML5, CSS, React.js, Redux, Git, TypeScript
 
 
 
