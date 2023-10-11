@@ -3,9 +3,15 @@
 ### Мой стек:
 
 ```mermaid
-flowchart LR
- id1([JavaScript]) id2([HTML5]) id3([CSS])
- 
+flowchart TD
+    id1{{JavaScript}} ;
+    id2{{HTML5}} ;
+    id3{{CSS}};
+    id4{{React.js}};
+    id5{{Redux}};
+    id6{{TypeScript}};
+    id7{{Git}};
+
 ```
 
 
