@@ -1,6 +1,6 @@
-<font size="5"> Привет всем, меня зовут Андрей </font> 👋
+<font size="5"> **Привет всем, меня зовут Андрей** </font> 👋
 
-<font size="4"> Мой стек: </font>
+<font size="7"> **Мой стек:** </font>
 
 JavaScript, HTML5, CSS, React.js, Redux, Git, TypeScript
 
